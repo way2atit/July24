@@ -10,5 +10,10 @@ public class Student {
 		int rollno =1;
 		
 	}
+	
+	public void stud_info()
+	{
+		System.out.println("Student Info..");
+	}
 
 }
